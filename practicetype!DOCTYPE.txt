@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header></header>
+    <main></main>
+    <footer></footer>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>document</title>
+  </head>
+  <body>
+    <!-- practice DOC html -->
+    <header></header>
+    <main></main>
+    <footer></footer>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-compatible" content="ie=edge" />
+    <title>di isi bebas</title>
+  </head>
+  <body>
+    <header></header>
+    <main></main>
+    <footer></footer>
+  </body>
+</html>
+
+<!-- practice !DOC html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-compatible" content="ie-edge" />
+    <title>di isi bebas</title>
+  </head>
+  <body>
+    <header></header>
+
+    <main></main>
+
+    <footer></footer>
+  </body>
+</html>
+
+<!-- practice manual !DOC html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-compatible" content="ie-edge" />
+
+    <!-- put img on the tab browser; linkfavicon -->
+    <link rel="shortcut icon" href="di isi data ./data???" type="image/x-icon" />
+
+    <title>di isi bebas</title>
+  </head>
+    <body>
+      <header></header>
+      <main></main>
+      <footer></footer>
+    </body>
+  
+</html>
+
+<!-- practice !DOCTYPE html -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-compatible" content="ie-edge">
+    <title>di isi bebas</title>
+  </head>
+
+  <body>
+    <head></head>
+    <main></main>
+    <footer></footer>
+  </body>
+</html>
+
+<!-- practice DOCTYPE html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-compatible" content="ie-edge">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title></title>
+  </head>
+
+  <body>
+    <header></header>
+    <main></main>
+    <footer></footer>
+  </body>
+</html>
+
